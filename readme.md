@@ -28,7 +28,7 @@ Page: [facebook page](https://www.facebook.com/jigsawgroups)
 
 วิดีโอรายละเอียดการรับสมัคร Web Developer บน Youtube (PHP, Node.JS, React,JS, Vue, Frontend-Backend): [วิดีโอ](https://www.youtube.com/watch?v=N8zX2GU6QeQ)
 
-วิโีโอแนะนำ JigsawGroups Team: [วิดีโอ](https://www.youtube.com/watch?v=h3Vq9LjJ2tk)
+วิดีโอแนะนำ JigsawGroups Team: [วิดีโอ](https://www.youtube.com/watch?v=h3Vq9LjJ2tk)
 
 อันนี้เว็บบริษัท: [เว็บ](www.jigsawgroups.com)
 
